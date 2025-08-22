@@ -1,7 +1,7 @@
-# nim = ['001', '002', '003']
-# nama = ['bejo', 'karti', 'tejo']
-# for i, data_nama in enumerate(nama):
-# 	print(f'{nim[i]}--{data_nama}')
+nim = ['001', '002', '003']
+nama = ['bejo', 'karti', 'tejo']
+for i, data_nama in enumerate(nama):
+	print(f'{nim[i]}--{data_nama}')
 
 # Pythonic
 nim = ['001', '002', '003']
