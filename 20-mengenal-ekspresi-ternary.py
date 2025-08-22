@@ -1,0 +1,12 @@
+a = -10
+if a < 0:
+	b = 'negatif'
+else:
+	b = 'positif'
+print(f'{a} bernilai {b}')
+
+# Pythonic
+a = 10
+b = 'negatif' if a < 0 else 'positif'
+
+print(f'{a} bernilai {b}')
